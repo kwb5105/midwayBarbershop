@@ -52,7 +52,7 @@ var Tab2PageModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>\n      Who's working\n    </ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content></ion-content>\n"
+module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>\n      Who's working\n    </ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-card class=\"barberShopCards\">\n  <ion-card-header>\n    <ion-card-title>Todd Stroud</ion-card-title>\n    <ion-card-subtitle>Owner</ion-card-subtitle>\n  </ion-card-header>\n\n  <ion-card-content>\n    Owner of Midway barbershop. XX years of experience\n  </ion-card-content>\n</ion-card>\n\n<ion-card class=\"barberShopCards\">\n  <ion-card-header>\n    <ion-card-title>Johnann Stroud</ion-card-title>\n    <ion-card-subtitle>Owner</ion-card-subtitle>\n  </ion-card-header>\n\n  <ion-card-content>\n    Owner of Midway Barbershop. XX years of experience.\n  </ion-card-content>\n</ion-card>\n\n<ion-card class=\"barberShopCards\">\n  <ion-card-header>\n    <ion-card-title>Demi Stroud Burger</ion-card-title>\n    <ion-card-subtitle>Cosmetologist</ion-card-subtitle>\n  </ion-card-header>\n\n  <ion-card-content>\n    Barber and Hair stylist. XX years of experience.\n  </ion-card-content>\n</ion-card>\n\n<ion-card class=\"barberShopCards\">\n  <ion-card-header>\n    <ion-card-title>Olivia Keith</ion-card-title>\n    <ion-card-subtitle>Cosmetologist</ion-card-subtitle>\n  </ion-card-header>\n\n  <ion-card-content>\n    Barber and Hair stylist. XX years of experience.\n  </ion-card-content>\n</ion-card>\n\n<ion-card class=\"barberShopCards\">\n  <ion-card-header>\n    <ion-card-title>Jessi Stroud</ion-card-title>\n    <ion-card-subtitle>Cosmetologist</ion-card-subtitle>\n  </ion-card-header>\n\n  <ion-card-content>\n    Barber and Hair stylist. XX years of experience.\n  </ion-card-content>\n</ion-card>"
 
 /***/ }),
 
@@ -63,7 +63,7 @@ module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>\n      Who's wo
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3RhYjIvdGFiMi5wYWdlLnNjc3MifQ== */"
+module.exports = ".barberShopCards {\n  overflow: scroll;\n  height: 100vh; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdGFiMi9DOlxcVXNlcnNcXGt3YjUxXFxreWxlSW9uaWNcXGJhcmJlclNob3Avc3JjXFxhcHBcXHRhYjJcXHRhYjIucGFnZS5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZ0JBQWdCO0VBQ2hCLGFBQWEsRUFBQSIsImZpbGUiOiJzcmMvYXBwL3RhYjIvdGFiMi5wYWdlLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYmFyYmVyU2hvcENhcmRzIHtcbiAgICBvdmVyZmxvdzogc2Nyb2xsO1xuICAgIGhlaWdodDogMTAwdmg7XG4gIH0iXX0= */"
 
 /***/ }),
 

@@ -52,7 +52,7 @@ var Tab3PageModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>\n      Prices\n    </ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content>\n  <!-- List of Text Items -->\n<ion-list>\n  <ion-item>\n    <ion-label>Pokémon Yellow</ion-label>\n    <ion-icon name=\"clock\"></ion-icon>\n  </ion-item>\n  <ion-item>\n    <ion-label>Mega Man X</ion-label>\n  </ion-item>\n  <ion-item>\n    <ion-label>The Legend of Zelda</ion-label>\n  </ion-item>\n  <ion-item>\n    <ion-label>Pac-Man</ion-label>\n  </ion-item>\n  <ion-item>\n    <ion-label>Super Mario World</ion-label>\n  </ion-item>\n</ion-list>\n</ion-content>\n"
+module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>\n      Prices\n    </ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content>\n  <!-- List of Text Items -->\n  <ion-list>\n    <ion-item>\n      <ion-label>Flat Top</ion-label>\n      <!--<ion-icon name=\"clock\"></ion-icon>-->\n    </ion-item>\n    <ion-item>\n      <ion-label>Style Cut</ion-label>\n    </ion-item>\n    <ion-item>\n      <ion-label>Regular Cut</ion-label>\n    </ion-item>\n    <ion-item>\n      <ion-label>Beard Trim</ion-label>\n    </ion-item>\n    <ion-item>\n      <ion-label>Womens Cuts</ion-label>\n    </ion-item>\n  </ion-list>\n</ion-content>"
 
 /***/ }),
 
